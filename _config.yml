@@ -1,1 +1,34 @@
-theme: jekyll-theme-cayman
+# site settings
+title: PT. Indoplastik Sukses Bersama
+subtitle: ""
+email: antowijaya@gmail.com
+description: Supplier plastik terbesar dan terpercaya dengan produk<br /> seperti PVC Rigid, Vacuum Forming, Plastic Packaging.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: Ruko Alexandrite Arcade Blok AA No. 9 Perumahan Grand Duta
+city: Tangerang
+country: Indonesia
+phone: (021) 55723480 (Phone & Fax) <br> 0896 4320 3542 (Whatsapp)
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 4
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url: https://instagram.com
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
