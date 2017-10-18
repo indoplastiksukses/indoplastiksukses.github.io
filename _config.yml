@@ -36,5 +36,3 @@ sass:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-
-permalink: pretty
