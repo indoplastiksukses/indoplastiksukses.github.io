@@ -2,10 +2,10 @@
 title: PT. Indoplastik Sukses Bersama
 subtitle: ""
 email: antowijaya@gmail.com
-description: Supplier plastik terbesar dan terpercaya dengan produk<br /> seperti PVC Rigid, Vacuum Forming, Plastic Packaging.
+description: Supplier plastik terbesar dan terpercaya dengan produk<br /> seperti PVC Rigid, Vacuum Forming, Plastic Packaging di Tangerang.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
+url: "http://indoplastiksukses.com/" # the base hostname & protocol for your site
+author: anestan
 street_address: Ruko Alexandrite Arcade Blok AA No. 9 Perumahan Grand Duta
 city: Tangerang
 country: Indonesia
@@ -17,7 +17,7 @@ tiles-count: 4
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://facebook.com
 github_url:
 gitlab_url:
 googleplus_url:
@@ -32,3 +32,9 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+permalink: pretty
