@@ -36,3 +36,5 @@ sass:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+env: production
