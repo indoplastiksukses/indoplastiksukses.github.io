@@ -1,7 +1,7 @@
 # site settings
 title: PT. Indoplastik Sukses Bersama
 subtitle: ""
-email: antowijaya@gmail.com
+email: indoplastiksukses@gmail.com
 description: Supplier plastik terbesar dan terpercaya dengan produk<br /> seperti PVC Rigid, Vacuum Forming, Plastic Packaging di Tangerang.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://indoplastiksukses.com/" # the base hostname & protocol for your site
@@ -17,11 +17,11 @@ tiles-count: 4
 
 # social settings
 500px_url:
-facebook_url: https://facebook.com
+facebook_url:
 github_url:
 gitlab_url:
 googleplus_url:
-instagram_url: https://instagram.com
+instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
