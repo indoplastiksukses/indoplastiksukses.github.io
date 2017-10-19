@@ -37,4 +37,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+gems:
+  - octopress-minify-html
+
 env: production
