@@ -1,0 +1,71 @@
+.navbar-brand img {
+    width: 36px;
+    float: left;
+    margin-left: 30px;
+    margin-right: 10px;
+    top: -5px;
+    position: relative;
+}
+
+.logo-footer img {
+    width: 36px;
+}
+
+.menu-info .menu-item {
+    float: none;
+}
+
+.menu-thumb {
+    overflow: hidden;
+    position: relative;
+}
+
+.menu-thumb .menu-info {
+    top: auto;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.9);
+    /* color: #000; */
+    padding: 10px;
+}
+
+.menu-thumb:hover .menu-info {
+    background: rgba(255, 255, 255, 1);
+}
+
+.menu-thumb .menu-info h3, .menu-thumb .menu-info p, .menu-thumb .menu-info span {
+    color: #000;
+}
+
+.menu-thumb {
+    padding-top: 30px;
+}
+
+.menu-thumb .menu-info h3 {
+    transform: none;
+    opacity: 1;
+}
+
+#products .section-title {
+    padding-bottom: 10px;
+}
+
+.section-title h4 {
+    color: #939393;
+    font-size: 16px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-top: 0;
+    font-family: 'Work Sans';
+    font-weight: 400;
+}
+
+.section-btn {
+    font-family: 'Work Sans';
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+
+footer address p {
+    margin-bottom: 5px;
+}
+
