@@ -7,6 +7,21 @@
     position: relative;
 }
 
+.navbar-brand h1 {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 21px;
+    margin: 0;
+    display: block;
+    position: relative;
+    top: -8px;
+}
+
+.top-nav-collapse .navbar-brand h1 {
+    color: #000;
+}
+
 .logo-footer img {
     width: 36px;
 }
@@ -69,3 +84,9 @@ footer address p {
     margin-bottom: 5px;
 }
 
+/* Media Queries */
+@media only screen and (max-width: 580px) {
+    .navbar-header .navbar-brand h1 {
+        display: none;
+    }
+}
